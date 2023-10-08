@@ -1,0 +1,97 @@
+<%@LANGUAGE="VBSCRIPT" CODEPAGE="936"%>
+<html>
+<style type=text/css>
+body  { background:#799AE1; margin:0px; font:9pt 宋体; }
+.input {
+	border:1px solid #666666; padding:1px; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "Verdana", "Arial", "宋体"; HEIGHT: 17px; BACKGROUND-COLOR: #ffffff
+}
+table  { border:0px; }
+td  { font:normal 12px 宋体; }
+img  { vertical-align:bottom; border:0px; }
+</style>
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>Web Site Manage</title>
+
+</head>
+
+<body bgcolor="#F0F0E8" link="#FFFFFF" style="background-color: #ffffff">
+<p align="center" style="line-height: 200%;">&nbsp; </p>
+<table width="491" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="443"><img src="../images/line_03.jpg" width="338" height="100"></td>
+  </tr>
+  <tr>
+    <td height="211"> 
+      <table width="300" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="../images/top_01.jpg" width="354" height="25"></td>
+        </tr>
+        <tr>
+          <td height="108" background="../images/bg_01.jpg"><div align="center">
+              <table border="0" width="294" cellspacing="1" height="6" align="center">
+                <tr> 
+                  <td width="100%" height="1"> </td>
+                </tr>
+                <tr> 
+                  <td width="100%" height="57"> 
+				  <form method="POST" action="script/login.asp?action=login" onsubmit="return checkempty(this)">
+                      <table border="0" width="100%" cellspacing="1">
+                        <tr> 
+                          <td width="26%" height="33"> 
+                            <div align="right"><font color="#FFFFFF">ID：</font></div></td>
+                          <td width="74%"> <input type="text" name="admin_name" size="20" class=input></td>
+                        </tr>
+                        <tr> 
+                          <td width="26%" height="50"> 
+                            <div align="right"><font color="#FFFFFF">Password：</font></div></td>
+                          <td width="74%"> <input type="password" name="admin_pass" size="20" class=input></td>
+                        </tr>
+                      </table>
+                      <div align="center"> 
+                        <input type="submit" value="Submit" name="B1" class=input>
+                        &nbsp;&nbsp;&nbsp;&nbsp;
+                        <input type="reset" value="Reset" name="B2" class=input>
+                      </div>
+                    </form></td>
+                </tr>
+                <tr> 
+                  <td width="100%" height="1"></td>
+                </tr>
+              </table>
+            </div></td>
+        </tr>
+        <tr>
+          <td><img src="../images/botton_01.jpg" width="354" height="16"></td>
+        </tr>
+      </table>
+      <div align="center"></div></td>
+  </tr>
+  <tr>
+    <td height="45"> 
+      <div align="right"><img src="../images/line_01.jpg" width="338" height="20"></div></td>
+  </tr>
+</table>
+<p align="center">&nbsp;</p>
+<SCRIPT language=JavaScript>
+	function checkempty(myform)
+	{
+		if(myform.admin_name.value == "")
+		{
+			alert("Please input your UserID!");
+			myform.admin_name.focus();
+			return false;
+		}
+		
+		if(myform.admin_pass.value == "")
+		{
+			alert("Please input your Password!");
+			myform.admin_pass.focus();
+			return false;
+		}
+	}
+</SCRIPT>
+</body>
+</html>

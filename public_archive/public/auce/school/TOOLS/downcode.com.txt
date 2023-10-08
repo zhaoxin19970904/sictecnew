@@ -1,0 +1,27 @@
+╭══════════════════════════════════════════╮
+║                              源易网--中国源码下载站                                ║
+║                                                                                    ║
+║              源码下载:www.downcode.com  源码论坛:www.downcode.net                  ║
+║                                                                                    ║
+║                       如有转载请勿删除以上信息，谢谢合作                           ║
+╰══════════════════════════════════════════╯
+╭══════════════════════════════════════════╮
+║ 　　　　　　　　　　　　　　　　程序相关使用说明　　　　　　　　　　  　　　　　　 ║
+╰══════════════════════════════════════════╯
+
+
+
+此程序是改进的一个校友录，班级界面完全模仿chianren的校友录，功能也完全一样，可能这是目前最好的校友录之一吧！
+
+下面将这个程序说明一下
+
+数据库名称：schoolmate.asa，大家修改时请改名为schoolmate.mdb，然后再打开。
+
+这个程序可能有一些ＢＵＧ存在，还请大家多多提出，一起进步
+
+
+
+网址：http://www.88com.cn/
+   
+
+

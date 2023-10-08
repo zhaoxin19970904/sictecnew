@@ -1,0 +1,21 @@
+.SELECT {
+	BORDER-RIGHT: #cccccc 1px double; BORDER-TOP: #cccccc 1px double; FONT-SIZE: 9pt; BORDER-LEFT: #cccccc 1px double; COLOR: #000000; BORDER-BOTTOM: #cccccc 1px double; FONT-FAMILY: ËÎÌו,Tahoma, sans-serif; HEIGHT: 18px; BACKGROUND-COLOR: #ffffff
+}
+.INPUT {
+	BORDER-RIGHT: #ffffff 1px double; BORDER-TOP: #cccccc 1px double; FONT-SIZE: 9pt; BORDER-LEFT: #ffffff 1px double; COLOR: #333333; BORDER-BOTTOM: #ffffff 1px double; FONT-FAMILY: ËÎÌו,MS Shell Dlg,Tahoma, sans-serif; HEIGHT: 18px; BACKGROUND-COLOR: #f7f7f7
+}
+A {
+	FONT-SIZE: 12px; FONT-FAMILY: ËÎÌו,tahoma,Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #3399cc; TEXT-DECORATION: underline
+}

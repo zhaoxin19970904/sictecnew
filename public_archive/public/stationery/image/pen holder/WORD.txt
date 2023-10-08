@@ -1,0 +1,11 @@
+PH-10
+Pen holder  bag  calendarand  thermometerSize:190*86*105mm
+
+PH-20
+Pen holder  bag  calendarand  thermometerSize:85*110*55mm
+
+PH-30
+Pen holder  bag  calendarand  thermometerSize:165*100*30mm
+
+PH-40
+Pen with ClockSize:160*78*80mm

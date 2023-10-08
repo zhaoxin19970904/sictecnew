@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="fl_replacelink_old_1" value="../trade/im-ex.htm" />
+	<infoitem key="fl_replacelink_new_1" value="../in-trade/im-ex.htm" />
+	<infoitem key="fl_replacelink_count" value="5" />
+	<infoitem key="fl_replacelink_old_2" value="../trade/index.htm" />
+	<infoitem key="fl_replacelink_new_2" value="../in-trade/index.htm" />
+	<infoitem key="fl_replacelink_old_3" value="../trade/index.htm" />
+	<infoitem key="fl_replacelink_new_3" value="../in-trade/index.htm" />
+	<infoitem key="fl_replacelink_old_4" value="../trade/oem.htm" />
+	<infoitem key="fl_replacelink_new_4" value="../in-trade/oem.htm" />
+	<infoitem key="fl_replacelink_old_5" value="../trade/sourcing.htm" />
+	<infoitem key="fl_replacelink_new_5" value="../in-trade/sourcing.htm" />
+</info>

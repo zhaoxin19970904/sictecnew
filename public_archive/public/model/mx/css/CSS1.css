@@ -1,0 +1,30 @@
+STYLE typetextcss A {
+	FONT-SIZE: 9pt; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #999999; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #CCCCCC; LEFT: 1px; POSITION: relative; TEXT-DECORATION: none; TOP: 1px
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.t {
+	LINE-HEIGHT: 1.4
+}
+P {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 12pt
+}
+TD {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 12pt
+}
+DIV {
+	FONT-SIZE: 9pt
+}
+INPUT {
+	FONT-FAMILY: "Tahoma", "Verdana"; FONT-SIZE: 9pt
+}

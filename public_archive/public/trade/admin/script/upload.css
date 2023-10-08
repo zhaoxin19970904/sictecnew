@@ -1,0 +1,91 @@
+.font {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 7pt; color: #FFFFFF}
+.footer {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 7pt; color: #666699; text-decoration: none}
+.navoff {  font-family: "宋体"; font-size: 9pt; font-weight: normal; color: #ffffff; cursor: hand}
+.navactive {  font-family: "宋体"; font-size: 9pt; font-weight: normal; color: #FFFFFF; background-color: #cc6600; cursor: hand; text-decoration: none}
+A:link {
+	COLOR: #0000ff; TEXT-DECORATION: none; font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 8pt
+}
+A:visited {
+	COLOR: #0000ff; TEXT-DECORATION: none; font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 8pt
+}
+A:active {
+	COLOR: #0000ff; TEXT-DECORATION: none; font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 8pt
+}
+A:hover {
+	{COLOR: #ff0000;position: relative; top: 1px; TEXT-DECORATION: none}
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #e8e8e8; 
+	FONT-SIZE: 9pt; 
+	SCROLLBAR-HIGHLIGHT-COLOR: #e4eaf1; 
+	SCROLLBAR-SHADOW-COLOR: #000000; 
+	SCROLLBAR-3DLIGHT-COLOR: #e8e8e8; 
+	SCROLLBAR-ARROW-COLOR: #000000; 
+	SCROLLBAR-TRACK-COLOR: #e4e4e4; 
+	SCROLLBAR-DARKSHADOW-COLOR: #e8e8e8;
+}.newshead {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 9px; font-weight: bold; color: #FF9900}
+.chinese {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 8pt; color: #000000}
+.chinese1 {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 8pt; color: #FF9900}
+.diaryhead {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 9pt; color: #ffffff;background-color: #cccc99}
+.articlehead {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 9pt; color: #ff6600}
+.download {
+
+	BORDER-RIGHT: #333333 1px ridge;
+	PADDING-RIGHT: 1px;
+	BORDER-TOP: #ffffff 1px ridge;
+	PADDING-LEFT: 1px;
+	FONT-SIZE: 8pt;
+	PADDING-BOTTOM: 1px;
+	BORDER-LEFT: #ffffff 1px ridge;
+	COLOR: #000000;
+	PADDING-TOP: 1px;
+	BORDER-BOTTOM: #000000 1px ridge;
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif";
+	BACKGROUND-COLOR: #E1E1E1;
+	cursor: auto;
+}
+SELECT {
+	border:1px solid #C0C0C0; FONT-SIZE: 12px; FILTER: Alpha(Opacity=50); COLOR: #666666; FONT-FAMILY: "song", "MS Shell Dlg", "宋体"; BACKGROUND-COLOR: #F5F5F5
+}
+.textarea {
+	border:1px solid #C0C0C0; padding:1px; FONT-SIZE: 12px; COLOR: #085878; FONT-FAMILY: "Verdana", "Arial", "宋体"; BACKGROUND-COLOR: #EFEFEF
+}
+.textarea2 {
+	border:1px solid #C0C0C0; width=80px;padding:1px; FONT-SIZE: 12px; COLOR: #085878; FONT-FAMILY: "Verdana", "Arial", "宋体"; BACKGROUND-COLOR: #EFEFEF
+}
+.input {
+	border:1px solid #666666; padding:1px; FONT-SIZE: 12px; COLOR: #085878; FONT-FAMILY: "Verdana", "Arial", "宋体"; HEIGHT: 18px; BACKGROUND-COLOR: #EFEFEF
+}
+.button {
+	BORDER-RIGHT: #333333 1px ridge;
+	PADDING-RIGHT: 1px;
+	BORDER-TOP: #ffffff 1px ridge;
+	PADDING-LEFT: 1px;
+	FONT-SIZE: 9pt;
+	PADDING-BOTTOM: 1px;
+	BORDER-LEFT: #ffffff 1px ridge;
+	COLOR: #000000;
+	PADDING-TOP: 1px;
+	BORDER-BOTTOM: #000000 1px ridge;
+	FONT-FAMILY: "宋体";
+	HEIGHT: 20px;
+	BACKGROUND-COLOR: #f1f1f1;
+	cursor: hand;
+}.unnamed1 {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 8pt; color: #FF9A00}
+.date {  font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 7pt; color: #C3C3C3}
+.button1 {
+	background: #cccccc;
+	border-bottom: #665b8e 1px solid;
+	border-left: #ffffff 1px solid;
+	border-right: #665b8e 1px solid;
+	border-top: #ffffff 1px solid;
+	color: #333333;
+	cursor: hand;
+	font-family: "宋体";
+	font-size: 12px;
+	height: 20px;
+	padding-bottom: 1px;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px
+}

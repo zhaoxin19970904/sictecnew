@@ -1,0 +1,50 @@
+MC-10
+Size:  276*198*16mm
+CTN size: 54*44*31cm
+50PCS/CTN
+N.W.: 14.00  G.W.: 16.80
+Loading QTY: 16470PCS (20FCL)
+34117PCS (40FCL)
+40000PCS (40HQ)
+
+MC-20
+Size:  295*199*17mm
+CTN size: 57*45*33cm
+50PCS/CTN
+N.W.: 13.60  G.W.: 15.90
+Loading QTY: 18666PCS (20FCL)
+38666PCS (40FCL)
+45333PCS (40HQ)
+
+MC-30
+Size:  240*227*17mm
+CTN size: 54*49*27cm
+50PCS/CTN
+N.W.: 12.40  G.W.: 15.00
+Loading QTY: 20289PCS (20FCL)
+42028PCS (40FCL)
+49275PCS (40HQ)
+
+MC-40
+Size:  243*184*12mm
+CTN size: 41*41*28cm
+50PCS/CTN
+N.W.: 8.80  G.W.: 10.70
+Loading QTY: 29166PCS (20FCL)
+60416PCS (40FCL)
+70833PCS (40HQ)
+
+MC-50
+MousePad Electronic Calculators Size:300*200*29mm
+
+MC-60B.8 Calculator  single    screenSize:298*200*30mm
+
+MC-60C.8 Calculator  single  ordouble  screenSize:298*200*30mm
+
+MC-70.8 Calculator  single    screenSize:500*210*25mm
+
+ MC-80 Mouse pad  calculator.8 diguts big display.Dual power.With Euro Size:213*230*7.8mm
+
+MC-90360°„Mouse  pad.8 digits  diaplaySize:245*228*17mm
+
+MC-100360°„ Mouse pad calculator.8 diguts big display.Dual power.With EuroSize:295*217*15mm

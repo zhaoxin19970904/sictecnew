@@ -1,0 +1,44 @@
+[Header]
+Signature=VISE
+Version=0001
+RemoveInUseFiles=0
+RegistryKeyName=LeapFTP 2.72.592 简体中文汉化版
+Product Name=LeapFTP 2.72.592 简体中文汉化版
+[WinNT]
+AdminPrivileges=1
+[Directories2]
+0=C:\Program Files
+count=7
+1=C:\Program Files\LeapFTP
+2=C:\Documents and Settings
+3=C:\Documents and Settings\All Users
+4=C:\Documents and Settings\All Users\「开始」菜单
+5=C:\Documents and Settings\All Users\「开始」菜单\程序
+6=C:\Documents and Settings\All Users\「开始」菜单\程序\LeapFTP 汉化版
+[Files]
+count=9
+0=C:\Program Files\LeapFTP\LeapFTP.exe
+1=C:\Program Files\LeapFTP\LeapFTP.hlp
+2=C:\Program Files\LeapFTP\README.TXT
+3=C:\Program Files\LeapFTP\SITES.INI
+4=C:\Program Files\LeapFTP\whatsnew.txt
+5=C:\Program Files\LeapFTP\补丁说明.txt
+6=C:\Documents and Settings\All Users\「开始」菜单\程序\LeapFTP 汉化版\LeapFTP.lnk
+7=C:\Documents and Settings\All Users\「开始」菜单\程序\LeapFTP 汉化版\关于汉化版.lnk
+8=C:\Documents and Settings\All Users\「开始」菜单\程序\LeapFTP 汉化版\删除 LeapFTP.lnk
+[Shortcuts]
+0=C:\DOCUME~1\re\桌面\LeapFTP.lnk
+[Strings]
+IDS_STRING1=您确信要完全删除选定应用程序和所有它的组件吗？
+IDS_STRING2=确认文件删除
+IDS_STRING3=系统显示下列共享文件不再被任何程序使用。
+IDS_STRING4=删除共享文件吗？
+IDS_STRING5=卸载成功完成。
+IDS_STRING6=卸载
+IDS_STRING7=如果一些程序仍然使用这个文件而它被删除了，那些程序可能无法正常运行。您确信要删除共享文件吗？
+IDS_STRING8=卸载部分成功。
+IDS_ADMINPRIVILEGESNEEDED=需要管理员权限来卸载这个软件。
+IDS_YES=是(&Y)
+IDS_NO=否(&N)
+IDS_YESTOALL=全部是(&A)
+IDS_REMOVINGFILE=正在删除文件:
